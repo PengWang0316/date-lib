@@ -1,0 +1,33 @@
+{
+  "name": "date-lib",
+  "version": "1.0.0",
+  "description": "The library to help Formating the date.",
+  "main": "./distribution/index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "build": "babel-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PengWang0316/date-lib.git"
+  },
+  "keywords": [
+    "date",
+    "format"
+  ],
+  "author": "Kevin W.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PengWang0316/date-lib/issues"
+  },
+  "homepage": "https://github.com/PengWang0316/date-lib#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.2.2",
+    "babel-jest": "^23.0.0-alpha.0",
+    "eslint": "^4.19.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "jest": "^22.4.2"
+  }
+}
