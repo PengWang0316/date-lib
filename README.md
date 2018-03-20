@@ -5,7 +5,7 @@ Help javascript users to get the formatted date string from the date
 # Installing
 
 ```
-npm install --save date-lib
+npm install --save date-format-lib
 ```
 
 # Usage
@@ -13,13 +13,13 @@ npm install --save date-lib
 **When you use ES5**
 
 ```javascript
-var DateLib = require('date-lib');
+var DateLib = require('date-format-lib');
 ```
 
 **When you use ES6**
 
 ```javascript
-import DateLib form 'DateLib';
+import DateLib form 'date-format-lib';
 ```
 
 **Get today's date string with a giving pattern**
