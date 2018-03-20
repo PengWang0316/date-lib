@@ -1,6 +1,6 @@
 {
   "name": "date-format-lib",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "The library helps JavaScript users to Format the date.",
   "main": "./distribution/index.js",
   "scripts": {
