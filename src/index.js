@@ -14,7 +14,7 @@ function getFormatedDate(currentDate, pattern) {
 
 module.exports = {
   getCurrentDateString: pattern => getFormatedDate(new Date(), pattern),
-  getDataString: (date, pattern) => {
+  getDateString: (date, pattern) => {
     if (typeof date === 'string') return getFormatedDate(new Date(date), pattern);
     else if (date instanceof Date) return getFormatedDate(date, pattern);
     throw new Error('Please offer a date string or Date object for the param.');
