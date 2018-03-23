@@ -2,6 +2,8 @@
 
 Help javascript users to get the formatted date string from the date
 
+[![Coverage Status](https://coveralls.io/repos/github/PengWang0316/date-lib/badge.svg?branch=master)](https://coveralls.io/github/PengWang0316/date-lib?branch=master)
+
 # Installing
 
 ```

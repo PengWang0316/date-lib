@@ -1,3 +1,4 @@
 distribution
 node_modules
 coverage
+.coveralls.yml
