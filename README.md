@@ -2,7 +2,7 @@
 
 Help javascript users to get the formatted date string from the date
 
-[![Coverage Status](https://coveralls.io/repos/github/PengWang0316/date-lib/badge.svg?branch=master)](https://coveralls.io/github/PengWang0316/date-lib?branch=master)
+[![Build Status](https://travis-ci.org/PengWang0316/date-lib.svg?branch=master)](https://travis-ci.org/PengWang0316/date-lib)[![Coverage Status](https://coveralls.io/repos/github/PengWang0316/date-lib/badge.svg?branch=master)](https://coveralls.io/github/PengWang0316/date-lib?branch=master)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Installing
 
