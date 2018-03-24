@@ -4,7 +4,7 @@ import DateLib from '../src/index';
 
 describe('DateLib test', () => {
   test('getCurrentDateString', () => {
-    let clock = sinon.useFakeTimers(new Date(2018, 2, 16).getTime()); // Setting up a fake timer.
+    let clock = sinon.useFakeTimers(new Date(2018, 2, 16).getTime()); // Setting up a fake timer. 
     expect(DateLib.getCurrentDateString('yyyy/mm/dd')).toBe('2018/03/16');
     expect(DateLib.getCurrentDateString('yyyy-mm-dd')).toBe('2018-03-16');
     expect(DateLib.getCurrentDateString('yyyy*mm-dd')).toBe('2018*03-16');

@@ -1,6 +1,6 @@
 /**
  * Transforing the Date object to a formated string.
- * @param {object} currentDate is a Date object.
+ * @param {object} currentDate is a date object.
  * @param {string} pattern is a string that repersents the output format.
  * @return {string} Return a format date string based on the pattern.
  */
