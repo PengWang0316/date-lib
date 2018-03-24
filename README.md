@@ -2,7 +2,7 @@
 
 Help javascript users to get the formatted date string from the date
 
-[![Build Status](https://travis-ci.org/PengWang0316/date-lib.svg?branch=master)](https://travis-ci.org/PengWang0316/date-lib) [![Coverage Status](https://coveralls.io/repos/github/PengWang0316/date-lib/badge.svg?branch=master)](https://coveralls.io/github/PengWang0316/date-lib?branch=master) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.org/PengWang0316/date-lib.svg?branch=master)](https://travis-ci.org/PengWang0316/date-lib) [![Coverage Status](https://coveralls.io/repos/github/PengWang0316/date-lib/badge.svg?branch=master)](https://coveralls.io/github/PengWang0316/date-lib?branch=master) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/af8131c212944226bfeeab4ef01aba4c)](https://www.codacy.com/app/PengWang0316/date-lib?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PengWang0316/date-lib&amp;utm_campaign=Badge_Grade) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Installing
 
